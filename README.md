@@ -1,5 +1,8 @@
 # Nombre del Proyecto
 
+# Integrantes
+Jhon Valencia
+
 ## Descripción
 Descripción del proyecto y su propósito.
 
